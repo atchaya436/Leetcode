@@ -59,3 +59,19 @@ _(Updated as more solutions are added.)_
 ## Connect
 
 **Atchaya K A** — [LinkedIn](https://www.linkedin.com/in/atchaya-k-a) · [GitHub](https://github.com/atchaya436)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/atchaya436/Leetcode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/atchaya436/Leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/atchaya436/Leetcode/tree/master/0013-roman-to-integer) |
+<!---LeetCode Topics End-->
