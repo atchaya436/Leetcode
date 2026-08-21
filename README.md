@@ -74,4 +74,12 @@ _(Updated as more solutions are added.)_
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/atchaya436/Leetcode/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atchaya436/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atchaya436/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
