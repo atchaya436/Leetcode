@@ -70,6 +70,7 @@ _(Updated as more solutions are added.)_
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/atchaya436/Leetcode/tree/master/0013-roman-to-integer) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/atchaya436/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
