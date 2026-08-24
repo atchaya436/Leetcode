@@ -75,10 +75,12 @@ _(Updated as more solutions are added.)_
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/atchaya436/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/atchaya436/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atchaya436/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/atchaya436/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atchaya436/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Two Pointers
@@ -94,4 +96,8 @@ _(Updated as more solutions are added.)_
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atchaya436/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/atchaya436/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
