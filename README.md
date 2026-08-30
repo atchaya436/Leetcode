@@ -70,6 +70,7 @@ _(Updated as more solutions are added.)_
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/atchaya436/Leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/atchaya436/Leetcode/tree/master/0189-rotate-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/atchaya436/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -87,6 +88,7 @@ _(Updated as more solutions are added.)_
 | [0027-remove-element](https://github.com/atchaya436/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atchaya436/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/atchaya436/Leetcode/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/atchaya436/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
@@ -97,6 +99,7 @@ _(Updated as more solutions are added.)_
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atchaya436/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/atchaya436/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/atchaya436/Leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
