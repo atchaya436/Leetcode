@@ -88,6 +88,7 @@ _(Updated as more solutions are added.)_
 | [0027-remove-element](https://github.com/atchaya436/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atchaya436/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atchaya436/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/atchaya436/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/atchaya436/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/atchaya436/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -123,4 +124,12 @@ _(Updated as more solutions are added.)_
 | [0238-product-of-array-except-self](https://github.com/atchaya436/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/atchaya436/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atchaya436/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atchaya436/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
