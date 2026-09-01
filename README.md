@@ -1,60 +1,45 @@
 # LeetCode — Java Solutions
 
-A collection of my LeetCode problem solutions in Java, organized by difficulty and topic. I've solved 250+ problems on LeetCode and I'm migrating them here incrementally, with clean, commented solutions and notes on approach.
+Java solutions to LeetCode problems, organized by problem number, with folders auto-synced from LeetCode via the [LeetHub](https://github.com/arunbhardwaj/LeetHub-2.0) browser extension every time I solve a new problem.
 
-![Java](https://img.shields.io/badge/Java-0B1120?style=flat-square&logo=openjdk&logoColor=38BDF8&labelColor=0B1120)
-![Status](https://img.shields.io/badge/Status-In%20Progress-0B1120?style=flat-square&labelColor=0B1120&color=34D399)
+![Java](https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=D4AF37&labelColor=1E293B)
+![Auto-Synced](https://img.shields.io/badge/Auto--Synced-LeetHub-1E293B?style=flat-square&labelColor=1E293B&color=5EEAD4)
+![Status](https://img.shields.io/badge/Status-In%20Progress-1E293B?style=flat-square&labelColor=1E293B&color=D4AF37)
 
 ## Why This Repo
 
-I solve problems on LeetCode regularly to strengthen my data structures and algorithms fundamentals alongside my data analytics and ML work. This repo is where I document the process — not just the final solution, but the reasoning behind it — so it's useful as a reference for myself and readable for anyone reviewing my problem-solving approach.
+I solve LeetCode problems regularly to keep my data structures and algorithms fundamentals sharp alongside my data analytics and ML work. This repo auto-syncs each solved problem straight from LeetCode — code, problem statement, and topic tags — so it stays up to date without manual copy-pasting.
 
 ## Progress
 
-| Difficulty | Solved | Pushed to Repo |
-| :-- | :-- | :-- |
-| Easy | — | — |
-| Medium | — | — |
-| Hard | — | — |
-| **Total** | **250+** | **In progress** |
+| Difficulty | Solved & Pushed |
+| :-- | :-- |
+| Easy | 11 |
+| Medium | 5 |
+| Hard | 1 |
+| **Total** | **17** |
 
-> This table updates as I push more solutions. Solved count reflects my LeetCode profile; "Pushed to Repo" reflects what's committed here so far.
+> I've solved 250+ problems on [LeetCode](https://leetcode.com/u/atchaya436/) overall — this repo reflects what's been auto-synced so far and grows with every new problem I solve.
 
 ## Structure
 
+Each problem gets its own folder, named `<problem-number>-<problem-slug>`, containing:
+- The Java solution file
+- An auto-generated `README.md` with the problem statement and my accepted solution
+
 ```
-LeetCode/
-├── Easy/
-├── Medium/
-├── Hard/
-└── README.md
-```
-
-Each solution file is named after the problem (e.g. `TwoSum.java`) and includes:
-- A short comment with the problem summary and link
-- Time and space complexity of the approach
-- Clean, working Java code
-
-## Sample Format
-
-```java
-// Problem: Two Sum
-// Link: https://leetcode.com/problems/two-sum/
-// Time Complexity: O(n)
-// Space Complexity: O(n)
-
-class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        // solution here
-    }
-}
+Leetcode/
+├── 0004-median-of-two-sorted-arrays/
+├── 0013-roman-to-integer/
+├── 0014-longest-common-prefix/
+├── 0026-remove-duplicates-from-sorted-array/
+├── ...
+└── README.md   (this file — topics index auto-updates below)
 ```
 
 ## Topics Covered So Far
 
-`Arrays` `Strings` `Hashing` `Two Pointers` `Sorting` `Recursion`
-
-_(Updated as more solutions are added.)_
+`Array` `String` `Hash Table` `Two Pointers` `Math` `Sorting` `Binary Search` `Divide and Conquer` `Trie` `Prefix Sum` `Dynamic Programming` `Greedy`
 
 ## Connect
 
