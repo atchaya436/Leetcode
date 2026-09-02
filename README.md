@@ -58,6 +58,7 @@ Leetcode/
 | [0189-rotate-array](https://github.com/atchaya436/Leetcode/tree/master/0189-rotate-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/atchaya436/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/atchaya436/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Leetcode/
 | [0238-product-of-array-except-self](https://github.com/atchaya436/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/atchaya436/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/atchaya436/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
