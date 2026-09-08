@@ -58,6 +58,7 @@ Leetcode/
 | [0189-rotate-array](https://github.com/atchaya436/Leetcode/tree/master/0189-rotate-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/atchaya436/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/atchaya436/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/atchaya436/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
