@@ -80,6 +80,7 @@ Leetcode/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atchaya436/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/atchaya436/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/atchaya436/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/atchaya436/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1480-running-sum-of-1d-array](https://github.com/atchaya436/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/atchaya436/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -125,4 +126,9 @@ Leetcode/
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atchaya436/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/atchaya436/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/atchaya436/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
