@@ -60,6 +60,7 @@ Leetcode/
 | [0066-plus-one](https://github.com/atchaya436/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/atchaya436/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/atchaya436/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/atchaya436/Leetcode/tree/master/0412-fizz-buzz) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/atchaya436/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/atchaya436/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -75,6 +76,7 @@ Leetcode/
 | [0242-valid-anagram](https://github.com/atchaya436/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/atchaya436/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/atchaya436/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/atchaya436/Leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -150,4 +152,8 @@ Leetcode/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/atchaya436/Leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/atchaya436/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
