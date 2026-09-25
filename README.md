@@ -57,6 +57,7 @@ Leetcode/
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/atchaya436/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/atchaya436/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/atchaya436/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/atchaya436/Leetcode/tree/master/0268-missing-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -81,6 +82,7 @@ Leetcode/
 | [0014-longest-common-prefix](https://github.com/atchaya436/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/atchaya436/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/atchaya436/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atchaya436/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atchaya436/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
