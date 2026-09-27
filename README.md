@@ -51,6 +51,7 @@ Leetcode/
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/atchaya436/Leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/atchaya436/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/atchaya436/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/atchaya436/Leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -89,6 +90,7 @@ Leetcode/
 | [0088-merge-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atchaya436/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/atchaya436/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/atchaya436/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/atchaya436/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/atchaya436/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/atchaya436/Leetcode/tree/master/0283-move-zeroes) |
@@ -126,6 +128,7 @@ Leetcode/
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/atchaya436/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/atchaya436/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/atchaya436/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/atchaya436/Leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
